@@ -131,6 +131,7 @@ Hasil : <br>
 ### Mencari barang
 Masukkan id yang ingin dicari:<br>
 <img width="539" height="116" alt="Screenshot 2025-09-16 at 19 10 12" src="https://github.com/user-attachments/assets/7b80f6a7-7513-446d-ba1a-392dc5505373" />
+
 Tampilan:<br>
 <img width="1229" height="363" alt="Screenshot 2025-09-16 at 19 10 51" src="https://github.com/user-attachments/assets/6a6bd4e9-35ab-4e27-8fd0-5aaad906f7d8" />
 Jika ingin kembali menampilkan semua produk, pencet tombol "Tampilkan Semua"
