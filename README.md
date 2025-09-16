@@ -7,7 +7,16 @@ Saya Bintang Fajar Putra Pamungkas dengan NIM 2405073 mengerjakan Tugas Praktiku
 - Update Data: Mengubah data objek berdasarkan identifier unik (seperti ID).
 - Hapus Data: Menghapus objek berdasarkan identifier unik (ID).
 - Cari Data: Mencari satu objek spesifik.
-  
+
+# 🛑 Error Handling di semua program
+- Terdapat pesan error dan akan meminta input kembali jika input harga atau stok berisi non numberic atau negatif.<br>
+  Contoh error di program java:<br>
+  <img width="427" height="85" alt="Screenshot 2025-09-16 at 18 42 06" src="https://github.com/user-attachments/assets/8440b070-9766-4575-9097-af636ad9e87c" />
+
+- Terdapat pesan error dan akan meminta input jika saat update atau tambah data dengan id yang tidak unik.<br>
+  Contoh error di program py:<br>
+  <img width="412" height="42" alt="Screenshot 2025-09-16 at 18 11 49" src="https://github.com/user-attachments/assets/7680e48d-77b9-4916-abd5-a87fa722fad1" />
+
 # DOKUMENTASI OUTPUT
 Program dapat menambahkan, menampilkan, mengubah, menghapus dan mencari produk.
 ## 🤟🏻 Output program C++
@@ -37,13 +46,13 @@ Hasil : <br>
 ### Mencari data yang sudah dihapus
 <img width="497" height="199" alt="Screenshot 2025-09-16 at 17 36 48" src="https://github.com/user-attachments/assets/78159cea-4ba9-468d-ad53-5ec8f6dbe5ad" />
 
+
 ## ☕️ Output program Java
 ### Menambahkan data
 <img width="499" height="296" alt="Screenshot 2025-09-16 at 17 46 54" src="https://github.com/user-attachments/assets/34b98473-b087-4718-9d00-480f7c8e4ae1" />
 
 ### Menampilkan semua data
 <img width="506" height="295" alt="Screenshot 2025-09-16 at 17 47 53" src="https://github.com/user-attachments/assets/1616547e-e797-4730-b1bd-54cefec6bee3" />
-
 
 ### Memperbarui data
 Jika kita tidak ingin memperbarui atribut, bisa langsung enter saja dan akan menyimpan nilai lama. Jika kita ingin merubah atribut, bisa menginput nilai baru.
@@ -62,6 +71,30 @@ Hasil : <br>
 Hasil : <br>
 <img width="567" height="305" alt="Screenshot 2025-09-16 at 18 00 45" src="https://github.com/user-attachments/assets/b80cf020-3fc8-4a9c-93d4-537d17cce213" />
 
+
+## 🐍 Output program Python
+### Menambahkan data
+<img width="473" height="240" alt="Screenshot 2025-09-16 at 18 08 39" src="https://github.com/user-attachments/assets/b0a82d4f-0543-4e4b-9ab2-2993969c95f9" />
+
+### Menampilkan semua data
+<img width="486" height="288" alt="Screenshot 2025-09-16 at 18 09 45" src="https://github.com/user-attachments/assets/6d474301-0c9f-4afe-b131-5a51fc62e479" />
+
+### Memperbarui data
+Jika kita tidak ingin memperbarui atribut, bisa langsung enter saja dan akan menyimpan nilai lama. Jika kita ingin merubah atribut, bisa menginput nilai baru.
+
+<img width="441" height="250" alt="Screenshot 2025-09-16 at 18 47 28" src="https://github.com/user-attachments/assets/8a260e0a-19f8-4f43-828c-2a5d0567d4ed" />
+<br>
+Hasil : <br>
+<img width="502" height="283" alt="Screenshot 2025-09-16 at 18 47 49" src="https://github.com/user-attachments/assets/f30e801f-51f3-4162-8639-383859e85a75" />
+
+### Mencari barang
+<img width="447" height="259" alt="Screenshot 2025-09-16 at 18 48 06" src="https://github.com/user-attachments/assets/6d5b2d5c-5e02-48f2-b0ec-176472c4d547" />
+
+### Menghapus data
+<img width="517" height="192" alt="Screenshot 2025-09-16 at 18 48 18" src="https://github.com/user-attachments/assets/68e14a8c-d8f3-435d-83f9-fd75e02a7446" />
+<br>
+Hasil : <br>
+<img width="469" height="220" alt="Screenshot 2025-09-16 at 18 48 34" src="https://github.com/user-attachments/assets/a61b0bde-ced1-4221-9be1-d5e5232c6bd4" />
 
 
 
