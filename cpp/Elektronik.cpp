@@ -13,7 +13,6 @@ class Elektronik
         string nama_produk;
         int stok;
         double harga;
-        string gambar;
 
     public:
     // constructor
