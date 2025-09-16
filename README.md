@@ -97,7 +97,53 @@ Hasil : <br>
 <img width="469" height="220" alt="Screenshot 2025-09-16 at 18 48 34" src="https://github.com/user-attachments/assets/a61b0bde-ced1-4221-9be1-d5e5232c6bd4" />
 
 
+## 🤖 Output program PHP
+### Error jika input harga/stok berupa number negatif
+<img width="1244" height="187" alt="Screenshot 2025-09-16 at 18 58 17" src="https://github.com/user-attachments/assets/696abc15-9c4b-43a6-8c8f-4b808091cd88" />
 
+### error jika input harga/stok berupa non numberic
+<img width="615" height="307" alt="Screenshot 2025-09-16 at 18 59 26" src="https://github.com/user-attachments/assets/26de58f4-d82a-4373-b937-4c35d1d4afa1" />
+
+### error jika update id namun id sudah dipakai
+<img width="1211" height="76" alt="Screenshot 2025-09-16 at 19 06 12" src="https://github.com/user-attachments/assets/2e1a3b08-46e4-4338-9fbb-8f20eeb6d4a2" />
+
+### error jika menambahkan id yang sudah dipakai
+<img width="1203" height="79" alt="Screenshot 2025-09-16 at 19 06 54" src="https://github.com/user-attachments/assets/5f9095e9-7209-4808-8de2-28df9c3e501b" />
+
+### Menambahkan data
+<img width="1201" height="417" alt="Screenshot 2025-09-16 at 19 02 31" src="https://github.com/user-attachments/assets/84df0dfe-e1ec-4de8-8251-c9a8961dde03" />
+
+Hasil:<br>
+<img width="1221" height="208" alt="Screenshot 2025-09-16 at 19 00 33" src="https://github.com/user-attachments/assets/67116980-044d-40cc-b993-605218872f6f" />
+Folder gambar:<br>
+<img width="479" height="86" alt="Screenshot 2025-09-16 at 19 04 08" src="https://github.com/user-attachments/assets/f740ae3c-143f-4e3f-a083-465ed5486fa5" />
+
+### Menampilkan semua data
+<img width="1229" height="326" alt="Screenshot 2025-09-16 at 19 07 19" src="https://github.com/user-attachments/assets/a8d5a5f0-fa49-4416-851e-c162113c439f" />
+
+### Memperbarui data
+Jika kita tidak ingin memperbarui atribut, bisa langsung enter saja dan akan menyimpan nilai lama. Jika kita ingin merubah atribut, bisa menginput nilai baru.
+<img width="1217" height="501" alt="Screenshot 2025-09-16 at 19 09 13" src="https://github.com/user-attachments/assets/35890da4-7bd5-4e09-ae3d-0bfb28c4a448" />
+<br>
+Hasil : <br>
+<img width="1223" height="192" alt="Screenshot 2025-09-16 at 19 07 52" src="https://github.com/user-attachments/assets/efccab70-8e78-4547-bdc4-ff222fa2e673" />
+
+### Mencari barang
+Masukkan id yang ingin dicari:<br>
+<img width="539" height="116" alt="Screenshot 2025-09-16 at 19 10 12" src="https://github.com/user-attachments/assets/7b80f6a7-7513-446d-ba1a-392dc5505373" />
+Tampilan:<br>
+<img width="1229" height="363" alt="Screenshot 2025-09-16 at 19 10 51" src="https://github.com/user-attachments/assets/6a6bd4e9-35ab-4e27-8fd0-5aaad906f7d8" />
+Jika ingin kembali menampilkan semua produk, pencet tombol "Tampilkan Semua"
+
+### Menghapus data
+Terdapat tombol hapus data dan reset data:
+Tombol hapus data untuk menghapus salah satu data<br>
+<img width="1231" height="320" alt="Screenshot 2025-09-16 at 19 11 35" src="https://github.com/user-attachments/assets/2de464ca-0fc4-48e4-99e8-2bb3b4a2f3ed" />
+Saya menghapus data produk id 1:<br>
+<img width="1231" height="211" alt="Screenshot 2025-09-16 at 19 12 23" src="https://github.com/user-attachments/assets/7b6ca84d-ccf8-47c7-ba27-bf19ff479378" />
+
+Tombol reset data untuk mereset session dan menghapus semua data:<br>
+<img width="1231" height="262" alt="Screenshot 2025-09-16 at 19 13 18" src="https://github.com/user-attachments/assets/b16c399c-018a-4cb0-af78-b456041cfad6" />
 
 
 
